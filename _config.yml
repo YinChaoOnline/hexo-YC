@@ -9,6 +9,8 @@ description:
 keywords: AI, Machine-Learning, GIS, Web-Full-Stack 
 author: YIN Chao
 language:
+- en
+- zh-cn
 timezone:
 
 # URL
@@ -67,13 +69,16 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 10
+per_page: 8
 pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: minos
+
+# Disqus
+disqus_shortname: hexo-theme-minos
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
