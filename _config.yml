@@ -3,21 +3,21 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: YIN Chao
-subtitle: YIN Chao's Website
-description: 
-keywords: AI, Machine-Learning, GIS, Web-Full-Stack 
+title: Chao's Personal Website
+subtitle: YIN Chao's Personal Website
+description: this website belongs to YIN Chao (ychaowhu@gmail.com), it is primarily used to blog, display my professonal projects, academic infomation, CV, other things.
+keywords: AI, Machine-Learning, GIS, Web-Full-Stack, Geek, Optimists 
 author: YIN Chao
 language:
 - en
 - zh-cn
-timezone:
+timezone: Hongkong
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://ychao.org
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :category/:title # default is :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -39,7 +39,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: false
 relative_link: false
-future: true
+future: true # Display future posts?
 highlight:
   enable: true
   line_number: true
