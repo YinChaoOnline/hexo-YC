@@ -13,3 +13,16 @@ Creative Commons License
 Every blog post in this site by YIN Chao is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License, based on a work at https://github.com/YinChaoOnline/hexo-YC.
 
 You must reference Author: <a href="http://ychao.org">YIN Chao</a> explictly along with this license note if you want to re-post the content, either completely or partially.
+
+# todos
+contents
+- build home page
+- build about page
+- modify blog page
+- build project page
+- build teaching/resources/other page
+
+beautify
+- font,color
+- layout
+- ...
