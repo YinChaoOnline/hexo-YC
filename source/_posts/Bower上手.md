@@ -1,7 +1,7 @@
 ---
 title: Bower上手
 date: 2018-05-07 20:41:34
-tags:
+tags: [front-end, web, web-tools]
 ---
 
 # Bower上手
