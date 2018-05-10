@@ -1,0 +1,46 @@
+favicon: /favicon.png
+open_graph:
+  twitter_id:
+  twitter_site:
+  google_plus:
+  fb_admins:
+  fb_app_id:
+
+logo: /logo.png #logo pic
+
+article:
+  readtime: true
+
+menu:
+  Home: /home
+  Blogs: /blog
+  Projects: /project
+  Teaching: /teaching
+  Resources: /resource
+  Other: /other
+  About: /about
+
+search:
+  type: insight
+
+share:
+  type: sharethis
+  install_url: https://github.com/YinChaoOnline
+
+comment:
+  type: disqus
+  shortname: hexo-theme-minos
+
+plugins:
+  mathjax: true
+  gallery: true
+  google-analytics:
+    tracking_id:
+
+navbar_links:
+  GitHub:
+    icon: fab fa-github
+    url: https://github.com/YinChaoOnline
+
+footer_links:
+  GitHub: https://github.com/YinChaoOnline
